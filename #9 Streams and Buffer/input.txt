@@ -1,0 +1,6 @@
+Hello today topic is streaming 
+We are reading data 
+with createReadStream();
+Thankyou for reading!.
+
+abcdefg

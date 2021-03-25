@@ -27,3 +27,10 @@ const server = http.createServer((req,res)=>{
 
 server.listen(8001,(err)=>{console.log('listening to port no 8001')});
 //reference link:- https://www.tutorialsteacher.com/nodejs/create-nodejs-web-server
+
+/* ---------------------------------------------------------------------------------- 
+BONUS: IF U WANT TO TRY YOUR SERVER ON MOBILE browser , connect your pc with mobile wifi;
+OPEN CMD : WRITE A COMMAND "ipconfig";
+and look for ipv4 address;
+open your mobile browser and write down the ipv4_address:port_no and Boom !!
+*/
